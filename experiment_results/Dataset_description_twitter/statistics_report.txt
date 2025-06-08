@@ -1,0 +1,12 @@
+Total tweets: 11041
+Train set: 10041 tweets (90.94%)
+Test set: 1000 tweets (9.06%)
+
+General Tag distribution:
+  Tag 0: 10056 (91.08%)
+  Tag 1: 985 (8.92%)
+
+Specific Tag distribution:
+  Tag 0: 10056 (91.08%)
+  Tag 1: 278 (2.52%)
+  Tag 2: 707 (6.40%)

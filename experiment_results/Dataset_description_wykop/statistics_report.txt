@@ -1,0 +1,4 @@
+🔢 Liczba wszystkich wpisów: 24000
+
+Klasa 0 - nieszkodliwe: 12000 (50.00%)
+Klasa 1 - szkodliwe: 12000 (50.00%)

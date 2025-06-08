@@ -1,0 +1,3 @@
+📏 Średnia długość tekstów wg klasy (GENERAL TAG):
+  Klasa 0 (nieszkodliwe): avg. characters: 223.35, avg. words: 33.78
+  Klasa 1 (szkodliwe): avg. characters: 170.22, avg. words: 26.68
