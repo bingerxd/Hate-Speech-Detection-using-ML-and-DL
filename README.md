@@ -52,6 +52,9 @@ This folder includes all the notebooks in `.ipynb` format used during the master
 - **XML-ROBERTA-BASE_twitter.ipynb**  
   Training and testing of the XLM-RoBERTa model on Twitter and Wykop datasets, including result plots and model saving.
 
+- **Distribution_shift.ipynb**  
+  The distribution shift between Wykop/Twitter and the extreme dataset was analyzed using Jensen-Shannon and Kullback-Leibler divergences on word and label distributions, as well as semantic differences assessed with Maximum Mean Discrepancy and visualized via PCA and t-SNE on Sentence-BERT embeddings.
+
 ---
 
 ### 2. `experiment_results`
